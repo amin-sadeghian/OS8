@@ -3,4 +3,4 @@ chmod 440
 chmod a=rx file1
 chmod g=w sample
 chmod r+x sample
-chmod u+x test
+chmod u+g test
