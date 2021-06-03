@@ -1,3 +1,3 @@
-chmod -version
-chmod -f
+chmod -v
+chmod -R
 chmod -c
